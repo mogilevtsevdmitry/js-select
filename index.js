@@ -3,7 +3,7 @@ import "./select/styles.scss";
 
 const select = new Select("#select", {
   placeholder: "Выберите элемент",
-  selectItem: false, //true
+  selectItem: true, //true
   //selectedID: "1",
   data: [
     { id: "1", value: "Понедельник" },
