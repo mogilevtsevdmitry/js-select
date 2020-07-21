@@ -20,4 +20,4 @@
 - **onSelect(item)** - выводит в консоль информацию о выбранном элементе
 - **data** - набор данных для выпадающего списка в виде массива, можно подключить какую-либо БД и передавать в него данные
 
-![](//https://github.com/mogilevtsevdmitry/js-select/gif.gif/500x318)
+![](https://github.com/mogilevtsevdmitry/js-select/blob/master/gif.gif)
